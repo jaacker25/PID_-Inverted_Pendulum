@@ -1,0 +1,2 @@
+Codigo C archivo c684
+Archivo HEX para cargar al pic archivo h684confbits 
